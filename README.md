@@ -79,8 +79,9 @@ public class RollAball : MonoBehaviour
 }
 ```
 ## Output :
+![Screenshot 2025-03-15 093252](https://github.com/user-attachments/assets/b89a3096-b053-4fa6-b03a-108b81fa6491)
 
-![Alt text](<Screenshot 2025-03-15 093252.png>)
+
 ## Result:
 
 Thus a 3D application for RollABall objects in unity is developed successfully.
